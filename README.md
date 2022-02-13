@@ -1,3 +1,6 @@
+# Go to https://fastapissanga.azurewebsites.net/docs 
+
+
 - https://www.youtube.com/watch?v=GN6ICac3OXY&ab_channel=Amigoscode
 
 - https://www.tutlinks.com/deploy-fastapi-on-azure/
